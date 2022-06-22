@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Passett
-- 👀 I’m interested in python, data analytics, automation, and solidity
-- 🌱 I’m always learning python and looking forward to learning solidity
-- 💞️ I’m looking to collaborate on anything related to solidity or python
+- 👀 I’m interested in python, data analytics, and automation
+- 🌱 I’m always interested in building more skills
+- 💞️ I’m looking to collaborate on anything related python
 - 📫 Send me a dm on twitter @PassettEthereum
 
 <!---
