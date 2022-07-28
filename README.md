@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Passett
 - 👀 I’m interested in python, automation, data analytics, and data visualization
 - 🌱 I’m always interested in building more skills
-- 💞️ I’m looking to collaborate on anything related python
+- 💞️ I’m looking to collaborate on anything python related
 - 📫 Send me a dm on twitter @PassettEthereum
 
 <!---
